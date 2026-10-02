@@ -1,3 +1,3 @@
 # 🏠 House Price Predictor
 
-🌐 **Live App:** [Click Here to View Live App](https://house-price-prediction-app-hx3cxjtedynbqdmpfi7hh8.streamlit.app/)
+🌐 **Live App:** [Click Here to View Live App](https://danish4240-house-price-prediction-streamlit-linreg-hd-qnq1b9.streamlit.app/)
